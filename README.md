@@ -21,7 +21,7 @@ Run the mocha tests with `npm test`.
 
 ## Get started
 
-* Clone the assessment from the [starter]
+* Download the starter at the bottom of the page
 * Run `npm install`
 * Run all the tests with `npm test`
 
