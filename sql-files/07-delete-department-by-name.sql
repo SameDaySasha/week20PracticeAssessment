@@ -1,1 +1,7 @@
--- Your code here
+UPDATE Tools SET department = NULL WHERE department = 'Plumbing';
+DELETE FROM Tools WHERE department = 'Plumbing';
+
+
+
+
+
